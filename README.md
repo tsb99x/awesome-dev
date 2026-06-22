@@ -18,6 +18,11 @@ Enjoy!
 
 - [Podman](https://github.com/podman-container-tools/podman) - a tool for managing OCI containers and pods.
 - [Flatseal](https://github.com/tchx84/Flatseal) - a GUI tool for managing Flatpak permissions.
+- [Gear Lever](https://github.com/mijorus/gearlever) - a GUI tool for managing and integrating AppImages into your system menu.
+
+## Version Control
+
+- [lazygit](https://github.com/jesseduffield/lazygit) - a simple terminal UI for git commands.
 
 ## Shells
 
@@ -64,6 +69,10 @@ Enjoy!
 - [lossless-cut](https://github.com/mifi/lossless-cut) - the swiss army knife of lossless video/audio editing.
 - [mpv](https://mpv.io/) - a powerful and customizable command-line media player.
 - [gpu-screen-recorder](https://git.dec05eba.com/gpu-screen-recorder/about/) - a shadowplay-like, GPU-only screen recorder for Linux.
+
+## Themes
+
+- [Catppuccin](https://catppuccin.com/) - a soothing pastel color scheme for coding, designing, and much more.
 
 ## LLM
 
