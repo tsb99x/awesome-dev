@@ -5,6 +5,24 @@ I find them very useful and worth looking at.
 I prefer open-source and self-hosted solutions.
 Enjoy!
 
+## Table of Contents
+
+- [IDE](#ide)
+- [OS](#os)
+- [Containers](#containers)
+- [Version Control](#version-control)
+- [Shells](#shells)
+- [Hardware](#hardware)
+- [Knowledge Management](#knowledge-management)
+- [C](#c)
+- [C++](#cpp)
+- [JavaScript](#javascript)
+- [Node.js](#nodejs)
+- [Python](#python)
+- [Media](#media)
+- [Themes](#themes)
+- [LLM](#llm)
+
 ## IDE
 
 - [VSCodium](https://github.com/VSCodium/vscodium) - a true open-source alternative to Visual Studio Code, free of proprietary Microsoft telemetry and plugins.
@@ -36,14 +54,14 @@ Enjoy!
 
 - [Logseq](https://github.com/logseq/logseq) - a privacy-first, open-source platform for knowledge management and collaboration.
 
-## C Libraries
+## C
 
 - [miniaudio](https://github.com/mackron/miniaudio) - a header-only library for audio capture (WAV) and playback (WAV, FLAC, MP3).
 - [SDL](https://github.com/libsdl-org/SDL) - a cross-platform development library providing low-level access to audio, keyboard, mouse, joystick, and graphics hardware.
 - [GLFW](https://github.com/glfw/glfw) - a multi-platform library for window, context, and input handling for OpenGL/Vulkan.
 - [SQLite](https://sqlite.org/) - a public-domain, embeddable, self-contained SQL database engine.
 
-## C++ Libraries
+## C++
 
 - [cpp-httplib](https://github.com/yhirose/cpp-httplib) - a C++11 single-file header-only HTTP/HTTPS server and client library.
 - [nlohmann/json](https://github.com/nlohmann/json) - a single-header JSON library for Modern C++ with an intuitive API.
@@ -73,6 +91,7 @@ Enjoy!
 ## Themes
 
 - [Catppuccin](https://catppuccin.com/) - a soothing pastel color scheme for coding, designing, and much more.
+- [Nerd Fonts](https://www.nerdfonts.com/) - icon font and patching toolkit, adding hundreds of icons to developer fonts.
 
 ## LLM
 
