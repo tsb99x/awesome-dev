@@ -15,7 +15,7 @@ Enjoy!
 - [Hardware](#hardware)
 - [Knowledge Management](#knowledge-management)
 - [C](#c)
-- [C++](#cpp)
+- [C++](#c-1)
 - [JavaScript](#javascript)
 - [Node.js](#nodejs)
 - [Python](#python)
