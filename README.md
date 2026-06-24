@@ -10,6 +10,7 @@ Enjoy!
 - [IDE](#ide)
 - [OS](#os)
 - [Containers](#containers)
+- [Diagramming](#diagramming)
 - [Version Control](#version-control)
 - [Shells](#shells)
 - [Hardware](#hardware)
@@ -37,6 +38,11 @@ Enjoy!
 - [Podman](https://github.com/podman-container-tools/podman) - a tool for managing OCI containers and pods.
 - [Flatseal](https://github.com/tchx84/Flatseal) - a GUI tool for managing Flatpak permissions.
 - [Gear Lever](https://github.com/mijorus/gearlever) - a GUI tool for managing and integrating AppImages into your system menu.
+
+## Diagramming
+
+- [draw.io Desktop](https://github.com/jgraph/drawio-desktop) - an open-source diagramming desktop app based on Electron, wrapping the core draw.io editor.
+- [Inkscape](https://inkscape.org/) - a free and open-source vector graphics editor for artistic and technical illustrations.
 
 ## Version Control
 
