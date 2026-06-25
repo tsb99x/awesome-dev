@@ -10,6 +10,7 @@ Enjoy!
 - [IDE](#ide)
 - [OS](#os)
 - [Containers](#containers)
+- [Database](#database)
 - [Diagramming](#diagramming)
 - [Version Control](#version-control)
 - [Shells](#shells)
@@ -38,6 +39,10 @@ Enjoy!
 - [Podman](https://github.com/podman-container-tools/podman) - a tool for managing OCI containers and pods.
 - [Flatseal](https://github.com/tchx84/Flatseal) - a GUI tool for managing Flatpak permissions.
 - [Gear Lever](https://github.com/mijorus/gearlever) - a GUI tool for managing and integrating AppImages into your system menu.
+
+## Database
+
+- [PostgreSQL](https://www.postgresql.org/) - a powerful, open-source relational database management system.
 
 ## Diagramming
 
