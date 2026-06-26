@@ -11,6 +11,7 @@ Enjoy!
 - [OS](#os)
 - [Containers](#containers)
 - [Database](#database)
+- [Storage](#storage)
 - [Diagramming](#diagramming)
 - [Version Control](#version-control)
 - [Shells](#shells)
@@ -43,6 +44,10 @@ Enjoy!
 ## Database
 
 - [PostgreSQL](https://www.postgresql.org/) - a powerful, open-source relational database management system.
+
+## Storage
+
+- [RustFS](https://github.com/rustfs/rustfs) - an open-source, S3-compatible high-performance object storage system built in Rust.
 
 ## Diagramming
 
