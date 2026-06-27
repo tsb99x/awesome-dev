@@ -28,12 +28,12 @@ Enjoy!
 
 ## IDE
 
-- [VSCodium](https://github.com/VSCodium/vscodium) - a true open-source alternative to Visual Studio Code, free of proprietary Microsoft telemetry and plugins.
+- [VSCodium](https://github.com/VSCodium/vscodium) - an open-source build of VS Code without Microsoft telemetry and licensing restrictions.
 - [Neovim](https://github.com/neovim/neovim) - a highly extensible Vim-based text editor.
 
 ## OS
 
-- [Debian](https://www.debian.org/) - a free operating system (Linux distribution) known for stability and commitment to open-source.
+- [Debian](https://www.debian.org/) - a stable Linux distribution with a strong commitment to free software.
 
 ## Containers
 
@@ -43,17 +43,17 @@ Enjoy!
 
 ## Database
 
-- [PostgreSQL](https://www.postgresql.org/) - a powerful, open-source relational database management system.
+- [PostgreSQL](https://www.postgresql.org/) - a robust relational database management system with advanced features and extensibility.
 
 ## Storage
 
-- [RustFS](https://github.com/rustfs/rustfs) - an open-source, S3-compatible high-performance object storage system built in Rust.
+- [RustFS](https://github.com/rustfs/rustfs) - an S3-compatible, high-performance object storage system built in Rust.
 - [bees](https://github.com/Zygo/bees) - a block-oriented btrfs deduplication agent with incremental scanning and persistent hash tables.
 
 ## Diagramming
 
-- [draw.io Desktop](https://github.com/jgraph/drawio-desktop) - an open-source diagramming desktop app based on Electron, wrapping the core draw.io editor.
-- [Inkscape](https://inkscape.org/) - a free and open-source vector graphics editor for artistic and technical illustrations.
+- [draw.io Desktop](https://github.com/jgraph/drawio-desktop) - a desktop diagramming app based on Electron, wrapping the core draw.io editor.
+- [Inkscape](https://inkscape.org/) - a vector graphics editor for artistic and technical illustrations.
 
 ## Version Control
 
@@ -69,7 +69,7 @@ Enjoy!
 
 ## Knowledge Management
 
-- [Logseq](https://github.com/logseq/logseq) - a privacy-first, open-source platform for knowledge management and collaboration.
+- [Logseq](https://github.com/logseq/logseq) - a privacy-first platform for knowledge management and collaboration.
 
 ## C
 
@@ -93,25 +93,25 @@ Enjoy!
 
 ## Python
 
-- [uv](https://github.com/astral-sh/uv) - an extremely fast Python package and project manager, written in Rust.
-- [FastAPI](https://github.com/fastapi/fastapi) - a high-performance Python web framework, easy to learn, fast to code.
+- [uv](https://github.com/astral-sh/uv) - a fast Python package and project manager, written in Rust.
+- [FastAPI](https://github.com/fastapi/fastapi) - a high-performance Python web framework for building APIs.
 - [basedpyright](https://github.com/detachhead/basedpyright) - a pyright fork with type checking improvements and built-in language server features.
 
 ## Media
 
 - [ReadyMedia](https://sourceforge.net/projects/minidlna/) - a simple DLNA/UPnP-AV compliant media server (formerly minidlna).
-- [Kdenlive](https://kdenlive.org/) - a free and open-source non-linear video editor for Linux, Windows, macOS, and BSD.
-- [lossless-cut](https://github.com/mifi/lossless-cut) - the swiss army knife of lossless video/audio editing.
+- [Kdenlive](https://kdenlive.org/) - a non-linear video editor with multi-track timeline and professional features.
+- [lossless-cut](https://github.com/mifi/lossless-cut) - a versatile tool for lossless video and audio editing.
 - [mpv](https://mpv.io/) - a powerful and customizable command-line media player.
 - [gpu-screen-recorder](https://git.dec05eba.com/gpu-screen-recorder/about/) - a shadowplay-like, GPU-only screen recorder for Linux.
 
 ## Themes
 
-- [Catppuccin](https://catppuccin.com/) - a soothing pastel color scheme for coding, designing, and much more.
-- [Nerd Fonts](https://www.nerdfonts.com/) - icon font and patching toolkit, adding hundreds of icons to developer fonts.
+- [Catppuccin](https://catppuccin.com/) - a pastel color scheme with variants for terminals, editors, and applications.
+- [Nerd Fonts](https://www.nerdfonts.com/) - an icon font and patching toolkit that adds hundreds of icons to developer fonts.
 
 ## LLM
 
 - [llama.cpp](https://github.com/ggml-org/llama.cpp) - a LLM inference engine that can run in CLI or server mode.
-- [llama-swap](https://github.com/mostlygeek/llama-swap) - reliable model swapping for any local OpenAI/Anthropic compatible server.
-- [opencode](https://github.com/anomalyco/opencode) - the open source coding agent.
+- [llama-swap](https://github.com/mostlygeek/llama-swap) - a tool for reliable model swapping on local OpenAI/Anthropic-compatible servers.
+- [opencode](https://github.com/anomalyco/opencode) - an open-source coding agent.
