@@ -48,6 +48,7 @@ Enjoy!
 ## Storage
 
 - [RustFS](https://github.com/rustfs/rustfs) - an open-source, S3-compatible high-performance object storage system built in Rust.
+- [bees](https://github.com/Zygo/bees) - a block-oriented btrfs deduplication agent with incremental scanning and persistent hash tables.
 
 ## Diagramming
 
