@@ -74,9 +74,10 @@ Enjoy!
 ## C
 
 - [miniaudio](https://github.com/mackron/miniaudio) - a header-only library for audio capture (WAV) and playback (WAV, FLAC, MP3).
+- [SQLite](https://sqlite.org/) - a public-domain, embeddable, self-contained SQL database engine.
+- [stb](https://github.com/nothings/stb) - single-file public domain libraries for C/C++ covering image loading, font rasterization, audio decoding, and more.
 - [SDL](https://github.com/libsdl-org/SDL) - a cross-platform development library providing low-level access to audio, keyboard, mouse, joystick, and graphics hardware.
 - [GLFW](https://github.com/glfw/glfw) - a multi-platform library for window, context, and input handling for OpenGL/Vulkan.
-- [SQLite](https://sqlite.org/) - a public-domain, embeddable, self-contained SQL database engine.
 
 ## C++
 
